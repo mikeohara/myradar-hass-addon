@@ -1,0 +1,1 @@
+# myradar-hass-addon
